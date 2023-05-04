@@ -1,0 +1,15 @@
+{
+  "name": "nasa-wallpaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nasa-wallpaper.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wallpaper": "^6.1.1"
+  }
+}
